@@ -30,4 +30,8 @@ This project simulates the accounting process for ABC Retail Store, where I book
 - Balance Sheet and Income Statement preparation
 - T-account and Trial Balance preparation
 - Data management and presentation in Excel
-x
+
+---
+## 📄 Data Source
+
+The data used in this project is sourced from the 365 Financial Analyst course, specifically the "Accounting for ABC Retail" dataset provided in the course materials.
