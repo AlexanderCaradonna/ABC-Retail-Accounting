@@ -16,7 +16,7 @@ This project simulates the accounting process for ABC Retail Store, where I book
 
 ---
 
-## Accounts Involved:
+## 📕 Accounts Involved:
 - **Assets**: Cash, Inventory, Accounts Receivable
 - **Liabilities**: Accounts Payable, Unearned Revenue
 - **Equity**: Owner's Equity
@@ -25,7 +25,7 @@ This project simulates the accounting process for ABC Retail Store, where I book
 
 ---
 
-## Skills Demonstrated:
+## 📌 Skills Demonstrated:
 - Accounting principles
 - Balance Sheet and Income Statement preparation
 - T-account and Trial Balance preparation
