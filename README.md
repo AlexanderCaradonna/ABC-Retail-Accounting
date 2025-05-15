@@ -26,7 +26,8 @@ This project simulates the accounting process for ABC Retail Store, where I book
 ---
 
 ## Skills Demonstrated:
-- Accounting principles and journal entries
+- Accounting principles
+- Balance Sheet and Income Statement preparation
 - T-account and Trial Balance preparation
 - Data management and presentation in Excel
 x
