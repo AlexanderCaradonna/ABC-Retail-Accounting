@@ -12,7 +12,7 @@ This project simulates the accounting process for ABC Retail Store, where I book
 ## 📁 Project Structure
 
 - `ABC_List_Of_Transactions_RAWDATA.xlsx`: Contains the raw list of business transactions for ABC Retail Store
-- `ABC_Final_Workbook.xlsx`: Contains the completed T-accounts, trial balance, balance sheet, and income statement 
+- `ABC_FinalWorkbook.xlsx`: Contains the completed T-accounts, trial balance, balance sheet, and income statement 
 
 ---
 
